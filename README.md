@@ -91,6 +91,7 @@ https://www.youtube.com/@DaveGrayTeachesCode
         取消打勾時，選單項目橫線會消除。
 
         HTML: <??? style={???}>
+        CSS: {???: "line-through"}
         JavaScript: {(???.checked) ...}
 
 ### 17. Adding an onClick listener
@@ -117,6 +118,11 @@ https://www.youtube.com/@DaveGrayTeachesCode
         HTML: <ul>...</ul> <p style={}>Your list is empty.<p>
         CSS: marginTop: "2rem"
         JavaScript: ??? <ul>...</ul> ???
+
+        Hint:
+        (HTML element)
+        {{CSS style}}
+        {JavaScript expression}
 
 ### 20. When will we load state from localStorage?
         概述下一章的內容。
